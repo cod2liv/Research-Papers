@@ -180,7 +180,7 @@ https://paperswithcode.com/paper/n-stage-latent-dirichlet-allocation-a-novel
 20 June, 2023
 31. Twitter Sentiment Analysis
 Twitter Sentiment Analysis
-- 2021  ·  Vedurumudi Priyanka 
+2021  ·  Vedurumudi Priyanka 
 https://paperswithcode.com/paper/twitter-sentiment-analysis-1
 
 32. Twitter Sentiment Analysis
@@ -192,4 +192,5 @@ https://paperswithcode.com/paper/how-will-your-tweet-be-received-predicting-1
 
 33. Twitter Sentiment Analysis
 GRUBERT: A GRU-Based Method to Fuse BERT Hidden Layers for Twitter Sentiment Analysis
-Asian Chapter of the Association for Computational Linguistics 2020  ·  Leo Horne, Matthias Matti, Pouya Pourjafar, Zuowen Wang ·
+Asian Chapter of the Association for Computational Linguistics 2020  ·  Leo Horne, Matthias Matti, Pouya Pourjafar, Zuowen Wang 
+https://paperswithcode.com/paper/grubert-a-gru-based-method-to-fuse-bert
